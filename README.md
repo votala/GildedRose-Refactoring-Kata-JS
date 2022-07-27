@@ -11,7 +11,7 @@
 
 ### Setup
 Run `Npm install` for dependecies.
-Then ready to run one of commands below.
+Then ready to run commands below.
 
 ### NPM Scripts
 
@@ -23,4 +23,3 @@ Then ready to run one of commands below.
 
 ### Extra
 Run `node ./spec/texttest_fixture.js {{day}}` to change amount of days to loop
-Then ready to run one of commands below.
